@@ -1,0 +1,5 @@
+risk_tier,customers,churned_customers,churn_rate,average_predicted_probability
+Highest risk,50,13,0.26,0.5744775207531173
+High risk,50,14,0.28,0.4650664180104938
+Medium risk,50,10,0.2,0.3949963707869823
+Lowest risk,50,4,0.08,0.2718030101552066

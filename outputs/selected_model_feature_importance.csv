@@ -1,0 +1,21 @@
+feature,importance
+service_history_days,0.1440365079153049
+avg_spend_per_login,0.11723052706625739
+days_since_last_service_interaction,0.10553639413022566
+LoginFrequency,0.09742111712331124
+avg_spent,0.09643733126272724
+transactions_per_active_day,0.07004637241944178
+max_spent,0.06823674384533843
+spend_std,0.06626118496044266
+tx_category_count_Electronics,0.03643507745941055
+tx_category_count_Books,0.03466689639396377
+tx_category_count_Clothing,0.025448598506977914
+tx_category_count_Furniture,0.02485343364285241
+complaints_per_transaction,0.01978797915618293
+low_login_frequency_flag,0.01895058438020771
+Gender_M,0.01580432768552457
+ServiceUsage_Website,0.014775049080770774
+MaritalStatus_Married,0.014488761138813804
+ServiceUsage_Mobile App,0.011706750984807255
+service_type_count_Inquiry,0.011271295327003935
+MaritalStatus_Divorced,0.006605067520435271
